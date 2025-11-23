@@ -96,3 +96,6 @@ Future Enhancements
 4.Custom embedding model selection  
 5.Advanced document filtering  
 6.Multi-language support
+
+![Final-Link](https://github.com/user-attachments/assets/a31f6539-34f7-4c98-9a45-a0b2bf6fa0b2)
+
